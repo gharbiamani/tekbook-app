@@ -6,3 +6,6 @@ target/
 Dockerfile
 .dockerignore
 .env
+**/application-local.properties
+compose-final.txt
+scan.txt
